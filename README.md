@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Cyrus👋</h1>
-<h3 align="center">Future bioinformatician with a background in chemistry and biochemistry</h3>
+<h1 align="center">Hi there, I'm Cyrus Au-Yeung👋</h1>
+<h3 align="center">Future bioinformatician with a chemistry and biochemistry background</h3>
+
+`print(f"Currently analyzing: {gene} in {species} 🧪")`
 
 - 🔭 I’m currently working on **biomedical text mining and relation extraction**
 
