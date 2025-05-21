@@ -5,7 +5,7 @@
 
 ## About Me
 
-> 💻 Transitioning into bioinformatics from a strong experimental background; actively building programming and data science skills
+> 💻 Transitioning into bioinformatics from an experimental background; actively building data science skills
 
 #### 🧬 MS in Bioinformatics
 
